@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/oc8/user-management-ms/compare/v1.1.2...v1.2.0) (2024-06-25)
+
+
+### Features
+
+* add sqlx queries cache ([fe8f137](https://github.com/oc8/user-management-ms/commit/fe8f13724492630a576d9144a3927e4b8afcf634))
+
+
+### Bug Fixes
+
+* remove sqlx auto migrate ([3926722](https://github.com/oc8/user-management-ms/commit/39267227c8cac21170bab5f48a9727527361b5bc))
+
 ## [1.1.2](https://github.com/oc8/user-management-ms/compare/v1.1.1...v1.1.2) (2024-06-25)
 
 
